@@ -9,13 +9,13 @@
     "ip": "vanilla2026200.aternos.me",
     "port": 46956,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 90,
     "y": 100,
-    "z": 0
+    "z": -10,
   },
   "utils": {
     "auto-auth": {
